@@ -103,7 +103,8 @@ Since it is a classification problem we will use the following performance metri
 
 ****************************
 
-NLP Modules Used For Data 
+NLP Modules Used For Data Preprocessing the text data
+
 * Stopwords
 * TfidfVectorizer
 * WordCloud
