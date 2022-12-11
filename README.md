@@ -11,7 +11,7 @@ Shravani Naikoti - 016673579
 
 
 ## Spam Classifier 
-![image](https://user-images.githubusercontent.com/64269342/164372641-e1073755-48de-481c-823d-643dd9bfdb11.png)
+![image](https://github.com/kondurunikhil/cmpe255_group/blob/main/Images/Spam_Classifier.png)
 
 ## Abstract 
 
@@ -37,7 +37,7 @@ Installation of below packages required before running the project
 ### Steps to run the project
 Create a folder in local for Above Git Repo and open in termianl to execute below commands-
 
-`$ git clone https://github.com/shreyahunur/255-Team-13.git`
+`$ git clone https://github.com/kondurunikhil/cmpe255_group.git`
 
 Navigate to folder data visualization and run DataVisualization_BeforeDataCleaning.ipynb in jupyter notebook
 
@@ -70,7 +70,7 @@ spam   URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus
 
 ## Data Science Life Cycle
 
-<img width="491" alt="Datasciencelifecycle" src="https://user-images.githubusercontent.com/56205828/166523042-1c5a0d53-fba8-4c5b-ac7d-6e4efc209fdc.png">
+<img width="491" alt="Datasciencelifecycle" src="https://github.com/kondurunikhil/cmpe255_group/blob/main/Images/Datasciencelifecycle.png">
 
 
 
