@@ -76,6 +76,7 @@ spam   URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus
 
 ## Methodology
 
+
 We will be using supervised models, mainly different classification models like:
 
 * Naive Bayes
