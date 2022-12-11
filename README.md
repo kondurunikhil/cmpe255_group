@@ -105,7 +105,7 @@ Since it is a classification problem we will use the following performance metri
 
 NLP Modules Used For Data Preprocessing the text data
 
-* Stopwords
+* Stopwords (nltk.corpus)
 * TfidfVectorizer
 * WordCloud
 * String_Punctuations
