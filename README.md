@@ -103,7 +103,7 @@ Since it is a classification problem we will use the following performance metri
 
 ****************************
 
-NLP 
+NLP Modules
 * Stopwords
 * TfidfVectorizer
 * WordCloud
