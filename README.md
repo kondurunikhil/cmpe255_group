@@ -98,3 +98,13 @@ Since it is a classification problem we will use the following performance metri
 * Recall
 * F1 score
 * Receiver operating characteristic(ROC) and Area under the curve(AUC)
+
+# Data Preprocessing Tools
+
+****************************
+
+* Stopwords
+* TfidfVectorizer
+* WordCloud
+* String_Punctuations
+* Bag of Words
