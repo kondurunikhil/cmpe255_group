@@ -108,5 +108,5 @@ NLP Modules Used For Data Preprocessing the text data
 * Stopwords (nltk.corpus)
 * TfidfVectorizer
 * WordCloud
-* String_Punctuations
+* String_Punctuations(From string module)
 * Bag of Words
